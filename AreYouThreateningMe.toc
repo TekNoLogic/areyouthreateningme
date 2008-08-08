@@ -3,7 +3,7 @@
 ## Title: Are You Threatening Me?
 ## Notes: I need picata for my bunghole!
 ## Author: Tekkub Stoutwrithe
-## Version: Alpha
+## Version: 3.0.1.1
 ## X-Website: http://www.tekkub.net/
 ## X-Email: tekkub-wow@googlegroups.com
 
