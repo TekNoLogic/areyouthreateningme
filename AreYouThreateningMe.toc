@@ -1,0 +1,16 @@
+## Interface: 30000
+
+## Title: Are You Threatening Me?
+## Notes: I need picata for my bunghole!
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+## X-Website: http://www.tekkub.net/
+## X-Email: tekkub-wow@googlegroups.com
+
+## SavedVariables: AreYouThreateningMeDB
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
+
+AreYouThreateningMe.lua
