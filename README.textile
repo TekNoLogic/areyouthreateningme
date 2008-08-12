@@ -2,8 +2,6 @@ AreYouThreateningMe is a small "LibDataBroker":http://github.com/tekkub/libdatab
 
 <b>This will not work on the live realms</b>
 
-<em> AreYouThreateningMe does not provide it's own display, you will need a LDB-based display addon. </em>
-
 h2. Links
 
 <b>Visit "my site":http://www.tekkub.net/addons/AreYouThreateningMe for more info.<br>
